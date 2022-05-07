@@ -1,5 +1,5 @@
 # CafeOOP
-Creat cafe with OOP
+Create cafe with OOP
 
 객체지향은 객체에 역할과 책임을 정확하게 부여하고 그들이 협력을 통해 일을 할 수 있게 만드는 프로그래밍 패러다임이다. 
 
